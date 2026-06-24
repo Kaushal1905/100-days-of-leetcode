@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
