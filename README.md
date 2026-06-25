@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
