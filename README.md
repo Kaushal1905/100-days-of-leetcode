@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
