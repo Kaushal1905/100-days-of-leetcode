@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0283-move-zeroes) |
 | [0189-rotate-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0189-rotate-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Math
 |  |
 | ------- |
