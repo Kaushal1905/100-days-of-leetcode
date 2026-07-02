@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 | [0206-reverse-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
