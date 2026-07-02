@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
+| [0206-reverse-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
