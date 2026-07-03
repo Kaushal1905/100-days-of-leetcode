@@ -73,14 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0258-add-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
