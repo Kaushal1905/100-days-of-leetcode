@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0189-rotate-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
+| [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
