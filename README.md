@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0141-linked-list-cycle](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0507-perfect-number) |
 | [0009-palindrome-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0367-valid-perfect-square) |
+| [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
