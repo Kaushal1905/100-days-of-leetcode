@@ -76,16 +76,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
