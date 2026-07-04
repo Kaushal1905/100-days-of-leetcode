@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 | [0206-reverse-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
