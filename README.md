@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0507-perfect-number) |
 | [0009-palindrome-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
