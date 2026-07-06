@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0400-nth-digit) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [0066-plus-one](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0400-nth-digit](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0400-nth-digit) |
 ## Recursion
 |  |
 | ------- |
