@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0061-rotate-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0328-odd-even-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
