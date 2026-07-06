@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0400-nth-digit](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0400-nth-digit) |
 | [0319-bulb-switcher](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0319-bulb-switcher) |
+| [0172-factorial-trailing-zeroes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
