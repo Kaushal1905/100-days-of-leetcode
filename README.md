@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0319-bulb-switcher) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
 | ------- |
