@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 | [0061-rotate-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0061-rotate-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
