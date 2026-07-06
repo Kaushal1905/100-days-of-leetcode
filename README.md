@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
+| [0171-excel-sheet-column-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [0066-plus-one](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
