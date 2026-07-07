@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [0007-reverse-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0007-reverse-integer) |
+| [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0086-partition-list) |
+| [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
