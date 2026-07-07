@@ -4,22 +4,20 @@ private:
     stack<int> minStack;
 
 public:
-    MinStack() {
-        // both stacks start empty
-    }
+    MinStack() {}
 
     void push(int val) {
         dataStack.push(val);
         if (minStack.empty() || val <= minStack.top()) {
             minStack.push(val);
-        } else {
-            minStack.push(minStack.top()); // duplicate current min
         }
     }
 
     void pop() {
+        if (dataStack.top() == minStack.top()) {
+            minStack.pop();
+        }
         dataStack.pop();
-        minStack.pop();
     }
 
     int top() {
