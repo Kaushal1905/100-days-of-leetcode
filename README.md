@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 | [0001-two-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0119-pascals-triangle-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 ## Brainteaser
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
