@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0400-nth-digit) |
+| [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0007-reverse-integer) |
 | [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0086-partition-list) |
+| [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Design
 |  |
 | ------- |
