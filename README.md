@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0258-add-digits) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
