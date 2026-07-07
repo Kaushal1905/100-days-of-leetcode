@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0202-happy-number) |
 | [0001-two-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [0001-two-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
