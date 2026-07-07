@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0119-pascals-triangle-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0119-pascals-triangle-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
 |  |
 | ------- |
