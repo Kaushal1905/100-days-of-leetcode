@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [0001-two-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
