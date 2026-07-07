@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0168-excel-sheet-column-title](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0020-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0020-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
