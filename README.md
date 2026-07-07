@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0155-min-stack](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0155-min-stack](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
