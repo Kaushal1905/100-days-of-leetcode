@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0086-partition-list) |
 | [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
