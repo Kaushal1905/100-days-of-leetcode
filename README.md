@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0224-basic-calculator) |
 | [0171-excel-sheet-column-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0168-excel-sheet-column-title](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0020-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0155-min-stack](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0020-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
