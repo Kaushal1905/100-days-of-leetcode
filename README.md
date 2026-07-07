@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [0007-reverse-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
