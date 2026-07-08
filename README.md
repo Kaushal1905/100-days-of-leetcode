@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
