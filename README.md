@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
