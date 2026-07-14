@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
