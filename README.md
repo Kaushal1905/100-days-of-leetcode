@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0704-binary-search) |
+| [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
