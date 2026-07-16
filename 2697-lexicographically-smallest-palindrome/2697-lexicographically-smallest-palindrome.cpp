@@ -1,15 +1,19 @@
 class Solution {
 public:
     string makeSmallestPalindrome(string s) {
-        int i = 0, j = (int)s.size() - 1;
+        int n = s.size();
+        char* p = s.data();      // raw pointer, avoids operator[] bounds-check overhead
+        int i = 0, j = n - 1;
         
         while (i < j) {
-            if (s[i] != s[j]) {
-                char smaller = min(s[i], s[j]);
-                s[i] = s[j] = smaller;
+            char a = p[i], b = p[j];
+            if (a != b) {
+                char smaller = (a < b) ? a : b;  // avoid std::min call/template overhead
+                p[i] = smaller;
+                p[j] = smaller;
             }
-            i++;
-            j--;
+            ++i;
+            --j;
         }
         
         return s;
