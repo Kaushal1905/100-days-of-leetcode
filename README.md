@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0086-partition-list) |
 | [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
