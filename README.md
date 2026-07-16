@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0086-partition-list) |
 | [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Counting
 |  |
 | ------- |
