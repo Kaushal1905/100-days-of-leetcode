@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [0058-length-of-last-word](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Design
 |  |
 | ------- |
