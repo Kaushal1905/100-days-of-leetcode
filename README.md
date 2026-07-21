@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
