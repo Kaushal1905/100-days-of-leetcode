@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0704-binary-search) |
 | [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Design
 |  |
 | ------- |
