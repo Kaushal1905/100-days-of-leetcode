@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [0125-valid-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0125-valid-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
