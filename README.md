@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -291,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
