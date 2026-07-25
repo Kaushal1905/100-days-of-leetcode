@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
