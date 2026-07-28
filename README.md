@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0796-rotate-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0796-rotate-string) |
+| [0014-longest-common-prefix](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0014-longest-common-prefix](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
