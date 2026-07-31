@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0014-longest-common-prefix](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0392-is-subsequence) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0015-3sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0015-3sum) |
 ## Design
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
+| [0015-3sum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0015-3sum) |
 ## Simulation
 |  |
 | ------- |
