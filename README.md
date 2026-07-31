@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0796-rotate-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0796-rotate-string) |
 | [0014-longest-common-prefix](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0119-pascals-triangle-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [0125-valid-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
