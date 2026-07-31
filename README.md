@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0100-same-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0100-same-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0100-same-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0110-balanced-binary-tree) |
 ## Linked List
 |  |
 | ------- |
