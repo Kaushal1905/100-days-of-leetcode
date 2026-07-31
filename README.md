@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## String Matching
 |  |
 | ------- |
