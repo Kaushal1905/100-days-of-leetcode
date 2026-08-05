@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
