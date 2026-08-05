@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
