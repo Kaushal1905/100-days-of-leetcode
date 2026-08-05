@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0119-pascals-triangle-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
+| [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -364,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0238-product-of-array-except-self) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
