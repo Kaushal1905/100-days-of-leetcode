@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 | [0049-group-anagrams](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0383-ransom-note) |
+| [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3838-weighted-word-mapping) |
+| [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
