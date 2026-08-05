@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Game Theory
 |  |
 | ------- |
