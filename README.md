@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3838-weighted-word-mapping) |
 | [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -420,4 +424,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
