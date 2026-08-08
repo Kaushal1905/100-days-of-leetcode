@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0383-ransom-note) |
 | [3838-weighted-word-mapping](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3838-weighted-word-mapping) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -410,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1791-find-center-of-star-graph) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
