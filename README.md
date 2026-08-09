@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sieve Theory
 |  |
 | ------- |
