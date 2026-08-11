@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0383-ransom-note) |
 | [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3838-weighted-word-mapping) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
