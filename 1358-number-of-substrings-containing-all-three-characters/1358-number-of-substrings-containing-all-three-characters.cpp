@@ -1,17 +1,15 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int count[3] = {0, 0, 0}; // counts for 'a', 'b', 'c'
-        int left = 0;
-        long long res = 0; // use long long to be safe, though int suffices here
+        int last[3] = {-1, -1, -1}; // last seen index of 'a', 'b', 'c'
+        long long res = 0;
         
-        for (int right = 0; right < s.size(); right++) {
-            count[s[right] - 'a']++;
-            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
-                count[s[left] - 'a']--;
-                left++;
+        for (int i = 0; i < s.size(); i++) {
+            last[s[i] - 'a'] = i;
+            int minLast = min({last[0], last[1], last[2]});
+            if (minLast != -1) {
+                res += minLast + 1;
             }
-            res += left;
         }
         
         return (int)res;
