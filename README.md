@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0191-number-of-1-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0191-number-of-1-bits) |
 ## Brainteaser
 |  |
 | ------- |
