@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0056-merge-intervals) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
