@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
