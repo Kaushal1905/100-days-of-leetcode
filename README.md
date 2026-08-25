@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
+| [4006-count-valid-prefixes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4006-count-valid-prefixes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0383-ransom-note) |
+| [4006-count-valid-prefixes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4006-count-valid-prefixes) |
 ## Matrix
 |  |
 | ------- |
