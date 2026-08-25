@@ -479,4 +479,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0511-game-play-analysis-i) |
 | [0178-rank-scores](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0178-rank-scores) |
 | [0175-combine-two-tables](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
