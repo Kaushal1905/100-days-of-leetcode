@@ -484,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0584-find-customer-referee) |
 | [0180-consecutive-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
