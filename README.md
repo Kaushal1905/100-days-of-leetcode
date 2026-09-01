@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
 | [0152-maximum-product-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Recursion
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -445,10 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -485,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0595-big-countries) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
