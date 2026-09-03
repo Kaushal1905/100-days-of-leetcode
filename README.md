@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
+| [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
