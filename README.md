@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
+| [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4006-count-valid-prefixes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4006-count-valid-prefixes) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0008-string-to-integer-atoi](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
