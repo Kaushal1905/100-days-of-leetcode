@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0191-number-of-1-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
