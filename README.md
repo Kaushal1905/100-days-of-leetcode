@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0008-string-to-integer-atoi](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
+| [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
 ## Counting
 |  |
 | ------- |
