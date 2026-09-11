@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0226-invert-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0226-invert-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0226-invert-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
