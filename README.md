@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0226-invert-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1791-find-center-of-star-graph) |
+| [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -523,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Union-Find
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
