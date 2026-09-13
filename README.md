@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0136-single-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
