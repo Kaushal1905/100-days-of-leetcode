@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
+| [0338-counting-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0461-hamming-distance) |
 | [0136-single-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0476-number-complement) |
+| [0338-counting-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
