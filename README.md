@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
 | [0338-counting-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0338-counting-bits) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Counting
 |  |
 | ------- |
