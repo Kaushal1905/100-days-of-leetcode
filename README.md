@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2498-frog-jump-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2498-frog-jump-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2498-frog-jump-ii) |
 ## Math
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2498-frog-jump-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2498-frog-jump-ii) |
 ## Counting
 |  |
 | ------- |
