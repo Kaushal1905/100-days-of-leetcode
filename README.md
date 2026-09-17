@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
 | [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2498-frog-jump-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2498-frog-jump-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
