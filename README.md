@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 | [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
+| [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0062-unique-paths) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0476-number-complement) |
 | [0338-counting-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0338-counting-bits) |
+| [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0258-add-digits) |
 | [3838-weighted-word-mapping](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3838-weighted-word-mapping) |
+| [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
 ## Number Theory
 |  |
 | ------- |
