@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2498-frog-jump-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2498-frog-jump-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -549,4 +553,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
