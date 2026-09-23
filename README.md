@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0027-remove-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0027-remove-element) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
 | ------- |
