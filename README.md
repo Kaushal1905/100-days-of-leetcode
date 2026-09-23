@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 | [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
 | [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
+| [0006-zigzag-conversion](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
