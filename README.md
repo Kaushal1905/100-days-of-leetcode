@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0027-remove-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0027-remove-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0242-valid-anagram](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0191-number-of-1-bits) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Brainteaser
 |  |
 | ------- |
@@ -429,10 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -448,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0383-ransom-note) |
 | [4006-count-valid-prefixes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4006-count-valid-prefixes) |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -565,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
