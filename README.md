@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0027-remove-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
+| [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
 ## Binary Search Tree
 |  |
 | ------- |
