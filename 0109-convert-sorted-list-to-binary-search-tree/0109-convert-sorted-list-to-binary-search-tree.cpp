@@ -16,7 +16,7 @@ private:
         int mid = left + (right - left) / 2;
         TreeNode* root = new TreeNode(values[mid]);
 
-        root->left = buildBST(values, left, mid - 1);
+        root->left  = buildBST(values, left, mid - 1);
         root->right = buildBST(values, mid + 1, right);
 
         return root;
