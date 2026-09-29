@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1328-break-a-palindrome) |
 | [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
 | [0006-zigzag-conversion](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0006-zigzag-conversion) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -586,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
