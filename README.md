@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
+| [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
 ## Binary Search
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0383-ransom-note) |
 | [4006-count-valid-prefixes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4006-count-valid-prefixes) |
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
 ## Matrix
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [0204-count-primes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0204-count-primes) |
+| [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
 ## Monotonic Stack
 |  |
 | ------- |
