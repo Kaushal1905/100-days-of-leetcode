@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0219-contains-duplicate-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
 | [0338-counting-bits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0338-counting-bits) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
 | [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
