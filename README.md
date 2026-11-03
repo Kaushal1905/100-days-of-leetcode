@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
 | [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -607,4 +610,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0141-linked-list-cycle) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
