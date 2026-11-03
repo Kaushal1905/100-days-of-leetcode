@@ -2,23 +2,30 @@ class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
-        vector<int> dist(n, INT_MAX);
-        vector<bool> inMST(n, false);
-        dist[0] = 0;
+        vector<int> x(n), y(n), dist(n, INT_MAX);
+        for (int i = 0; i < n; i++) {
+            x[i] = points[i][0];
+            y[i] = points[i][1];
+        }
+
         int cost = 0;
+        int u = 0;
+        dist[0] = -1;                       // -1 marks "already in MST"
 
-        for (int it = 0; it < n; it++) {
-            int u = -1;
-            for (int i = 0; i < n; i++)
-                if (!inMST[i] && (u == -1 || dist[i] < dist[u])) u = i;
+        for (int it = 1; it < n; it++) {
+            int next = -1, best = INT_MAX;
 
-            inMST[u] = true;
-            cost += dist[u];
+            // One pass: relax distances from u AND find the closest outside node
+            for (int v = 0; v < n; v++) {
+                if (dist[v] < 0) continue;  // skip nodes already in MST
+                int d = abs(x[u] - x[v]) + abs(y[u] - y[v]);
+                if (d < dist[v]) dist[v] = d;
+                if (dist[v] < best) { best = dist[v]; next = v; }
+            }
 
-            for (int v = 0; v < n; v++)
-                if (!inMST[v])
-                    dist[v] = min(dist[v], abs(points[u][0] - points[v][0]) +
-                                           abs(points[u][1] - points[v][1]));
+            cost += best;
+            dist[next] = -1;
+            u = next;
         }
         return cost;
     }
