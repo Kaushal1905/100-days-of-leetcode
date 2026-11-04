@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4007-widest-possible-fence](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/4007-widest-possible-fence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2498-frog-jump-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2498-frog-jump-ii) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0733-flood-fill) |
 | [0063-unique-paths-ii](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0463-island-perimeter) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -586,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -626,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
