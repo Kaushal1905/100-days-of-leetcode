@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
 | [0006-zigzag-conversion](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0006-zigzag-conversion) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0258-add-digits) |
 | [3838-weighted-word-mapping](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/3838-weighted-word-mapping) |
 | [0067-add-binary](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kaushal1905/100-days-of-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
